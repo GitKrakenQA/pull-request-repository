@@ -1,5 +1,3 @@
-# Pull Request Repository
-
-A repository used to test pull requests in GitKraken.
-
-## SHOW ME WHAT YOU GOT!
+# pull-request-repository
+A repository used to test pull requests in GitKraken
+lmao != lmoo
